@@ -1,0 +1,10 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/ChatAPI/bin/Debug/net8.0
+/ChatAPI/obj
+/ChatAPI.DataAccess/bin/Debug/net8.0
+/ChatAPI.DataAccess/obj
+/ChatAPI.Services/obj/Debug/net8.0
